@@ -1,0 +1,11 @@
+C:\Users\erdi\source\repos\Bsg3Hafta\Bsg3Hafta\bin\Debug\Bsg3Hafta.exe.config
+C:\Users\erdi\source\repos\Bsg3Hafta\Bsg3Hafta\bin\Debug\Bsg3Hafta.exe
+C:\Users\erdi\source\repos\Bsg3Hafta\Bsg3Hafta\bin\Debug\Bsg3Hafta.pdb
+C:\Users\erdi\source\repos\Bsg3Hafta\Bsg3Hafta\obj\Debug\Bsg3Hafta.csprojAssemblyReference.cache
+C:\Users\erdi\source\repos\Bsg3Hafta\Bsg3Hafta\obj\Debug\Bsg3Hafta.Form1.resources
+C:\Users\erdi\source\repos\Bsg3Hafta\Bsg3Hafta\obj\Debug\Bsg3Hafta.Form2.resources
+C:\Users\erdi\source\repos\Bsg3Hafta\Bsg3Hafta\obj\Debug\Bsg3Hafta.Properties.Resources.resources
+C:\Users\erdi\source\repos\Bsg3Hafta\Bsg3Hafta\obj\Debug\Bsg3Hafta.csproj.GenerateResource.cache
+C:\Users\erdi\source\repos\Bsg3Hafta\Bsg3Hafta\obj\Debug\Bsg3Hafta.csproj.CoreCompileInputs.cache
+C:\Users\erdi\source\repos\Bsg3Hafta\Bsg3Hafta\obj\Debug\Bsg3Hafta.exe
+C:\Users\erdi\source\repos\Bsg3Hafta\Bsg3Hafta\obj\Debug\Bsg3Hafta.pdb
